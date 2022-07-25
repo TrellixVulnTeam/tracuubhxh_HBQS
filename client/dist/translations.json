@@ -1,0 +1,84 @@
+{
+    "data": [{
+            "id": 1,
+            "userKey": "user:users.user-lists",
+            "russian": "список пользователей",
+            "arabic": ".قوائم المستخدمين",
+            "english": "user lists",
+            "actions": ""
+        },
+        {
+            "id": 2,
+            "userKey": "user:users.user-first-name",
+            "russian": "имя пользователя",
+            "arabic": "اسم المستخدم الأول",
+            "english": "user first name",
+            "actions": ""
+        },
+        {
+            "id": 3,
+            "userKey": "user:users.user-last-name",
+            "russian": "фамилия пользователя",
+            "arabic": "اسم المستخدم الأخير",
+            "english": "user last name",
+            "actions": ""
+        },
+
+        {
+            "id": 4,
+            "userKey": "user:users.user-login",
+            "russian": "логин пользователя",
+            "arabic": "دخول المستخدم",
+            "english": "user login",
+            "actions": ""
+        },
+        {
+            "id": 5,
+            "userKey": "user:users.user-add-product",
+            "russian": "добавить продукт",
+            "arabic": "أضف المنتج",
+            "english": "add product",
+            "actions": ""
+        },
+        {
+            "id": 6,
+            "userKey": "user:users.user-orders-list",
+            "russian": "упорядоченный список",
+            "arabic": ".قائمة الأوامر",
+            "english": "orders list",
+            "actions": ""
+        },
+        {
+            "id": 7,
+            "userKey": "user:users.user-lists",
+            "russian": "список пользователей",
+            "arabic": ".قوائم المستخدمين",
+            "english": "user lists",
+            "actions": ""
+        },
+        {
+            "id": 8,
+            "userKey": "user:users.user-lists",
+            "russian": "список пользователей",
+            "arabic": ".قوائم المستخدمين",
+            "english": "user lists",
+            "actions": ""
+        },
+        {
+            "id": 9,
+            "userKey": "user:users.user-lists",
+            "russian": "список пользователей",
+            "arabic": ".قوائم المستخدمين",
+            "english": "user lists",
+            "actions": ""
+        },
+        {
+            "id": 10,
+            "userKey": "user:users.user-lists",
+            "russian": "список пользователей",
+            "arabic": ".قوائم المستخدمين",
+            "english": "user lists",
+            "actions": ""
+        }
+    ]
+}

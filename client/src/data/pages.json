@@ -1,0 +1,39 @@
+{
+    "data": [{
+            "id": 1,
+            "name": "Product List",
+            "createdAt": "sep 5,12",
+            "delete": false,
+            "status": true
+        },
+        {
+            "id": 2,
+            "name": "Digital Product",
+            "createdAt": "sep 5,12",
+            "delete": false,
+            "status": true
+        },
+        {
+            "id": 3,
+            "name": "order",
+            "createdAt": "sep 5,12",
+            "delete": false,
+            "status": true
+        },
+        {
+            "id": 4,
+            "name": "invoice",
+            "createdAt": "sep 5,12",
+            "delete": false,
+            "status": true
+        },
+        {
+            "id": 5,
+            "name": "user",
+            "createdAt": "sep 5,12",
+            "delete": false,
+            "status": true
+        }
+
+    ]
+}

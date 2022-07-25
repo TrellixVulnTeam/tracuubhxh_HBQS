@@ -1,0 +1,64 @@
+{
+    "data": [{
+            "orderId": 1,
+            "title": "10% off",
+            "code": "percent10",
+            "discount": "10%",
+            "status": true
+        },
+        {
+            "orderId": 2,
+            "title": "25% Off",
+            "code": "Percent25",
+            "discount": 10,
+            "status": false
+        },
+        {
+            "orderId": 3,
+            "title": "10% off",
+            "code": "percent10",
+            "discount": "25%",
+            "status": true
+
+        },
+        {
+            "orderId": 4,
+            "title": "2% Off",
+            "code": "Percent2",
+            "discount": "2%",
+            "status": false
+
+        }, {
+            "orderId": 5,
+            "title": "50% Off",
+            "code": "percent50",
+            "discount": "50%",
+            "status": true
+
+        },
+        {
+            "orderId": 6,
+            "title": "70% Off",
+            "code": "percent70",
+            "discount": "70%",
+            "status": false
+
+        },
+        {
+            "orderId": 7,
+            "title": "75% Off",
+            "code": "percent75",
+            "discount": "75%",
+            "status": true
+
+        },
+        {
+            "orderId": 8,
+            "title": "80% Off",
+            "code": "percent80",
+            "discount": "80%",
+            "status": false
+
+        }
+    ]
+}

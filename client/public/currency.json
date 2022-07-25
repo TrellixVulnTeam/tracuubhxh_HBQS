@@ -1,0 +1,52 @@
+{
+    "data": [{
+            "id": 1,
+            "currencyTitle": "Us Dollar",
+            "USD": "2.4512478",
+            "code": "USD",
+            "exchangeRate": "0.57912364",
+            "actions": ""
+        },
+        {
+            "id": 2,
+            "currencyTitle": "Afghanistan Afghani",
+            "USD": "5.14761214",
+            "code": "AFN",
+            "exchangeRate": "1.05761432",
+            "actions": ""
+        },
+        {
+            "id": 3,
+            "currencyTitle": "United Arab Emirates Dirham",
+            "USD": "12.02646581",
+            "code": "AED",
+            "exchangeRate": "0.15642465",
+            "actions": ""
+        },
+
+        {
+            "id": 4,
+            "currencyTitle": "European Union",
+            "USD": "8.124712425",
+            "code": "EUR",
+            "exchangeRate": "0.187541231",
+            "actions": ""
+        },
+        {
+            "id": 5,
+            "currencyTitle": "Japanese",
+            "USD": "10.78422121",
+            "code": "JPY",
+            "exchangeRate": "3.8425110221",
+            "actions": ""
+        },
+        {
+            "id": 6,
+            "currencyTitle": "Great Britain Pound",
+            "USD": "7.1246121152",
+            "code": "GBP",
+            "exchangeRate": "0.25522648",
+            "actions": ""
+        }
+    ]
+}

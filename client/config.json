@@ -1,0 +1,11 @@
+{
+    "firebase": {
+        "apiKey": "AIzaSyCtv1mINr19oCc5AUqzp7YztzoYLo3tYgE",
+        "authDomain": "multikart-a5a00.firebaseapp.com",
+        "projectId": "multikart-a5a00",
+        "storageBucket": "multikart-a5a00.appspot.com",
+        "messagingSenderId": "19288944420",
+        "appId": "1:19288944420:web:dc96dee1bc689790440db1"
+    },
+    "baseUrl": "http://14.224.129.177:9999/"
+}

@@ -1,0 +1,136 @@
+{
+    "data": [{
+            "id": 1,
+            "invoice": 50764,
+            "date": "1/1/2018",
+            "shipping": "3.62",
+            "amount": "816",
+            "tax": "65.28",
+            "total": "884.23",
+            "actions": ""
+        },
+        {
+            "id": 2,
+            "invoice": 50765,
+            "date": "15/3/2018",
+            "shipping": "8.4",
+            "amount": "146",
+            "tax": "70",
+            "total": "225",
+            "actions": ""
+
+        },
+        {
+            "id": 3,
+            "invoice": 50766,
+            "date": "28/4/2018",
+            "shipping": "7.3",
+            "amount": "47",
+            "tax": "724",
+            "total": "789",
+            "actions": ""
+
+        },
+
+        {
+            "id": 4,
+            "invoice": 50768,
+            "date": "31/4/2018",
+            "shipping": "2.00",
+            "amount": "478",
+            "tax": "35",
+            "total": "512",
+            "actions": ""
+
+        },
+        {
+            "id": 5,
+            "invoice": 50769,
+            "date": "2/5/2018",
+            "shipping": "1.5",
+            "amount": "1460",
+            "tax": "45.32",
+            "total": "1515",
+            "actions": ""
+
+        },
+        {
+            "id": 6,
+            "invoice": 50770,
+            "date": "3/5/2018",
+            "shipping": "8.45",
+            "amount": "768",
+            "tax": "17",
+            "total": "780",
+            "actions": ""
+
+
+        },
+        {
+            "id": 7,
+            "invoice": 50771,
+            "date": "4/5/2018",
+            "shipping": "25.8",
+            "amount": "874",
+            "tax": "27.2",
+            "total": "945.10",
+            "actions": ""
+
+        },
+        {
+            "id": 8,
+            "invoice": 50772,
+            "date": "8/5/2018",
+            "shipping": "17.2",
+            "amount": "671",
+            "tax": "83.7",
+            "total": "775.9",
+            "actions": ""
+
+        },
+        {
+            "id": 9,
+            "invoice": 50773,
+            "date": "12/5/2018",
+            "shipping": "87.5",
+            "amount": "0.57912364",
+            "tax": "65.28",
+            "total": "884.23",
+            "actions": ""
+
+        },
+        {
+            "id": 10,
+            "invoice": 50774,
+            "date": "16/5/2018",
+            "shipping": "78.12",
+            "amount": "572",
+            "tax": "8.70",
+            "total": "615",
+            "actions": ""
+
+        },
+        {
+            "id": 11,
+            "invoice": 50775,
+            "date": "20/5/2018",
+            "shipping": "57.56",
+            "amount": "78.12",
+            "tax": "10.57",
+            "total": "516",
+            "actions": ""
+
+        },
+        {
+            "id": 12,
+            "invoice": 50776,
+            "date": "22/5/2018",
+            "shipping": "40.17",
+            "amount": "516",
+            "tax": "10.57",
+            "total": "516",
+            "actions": ""
+
+        }
+    ]
+}

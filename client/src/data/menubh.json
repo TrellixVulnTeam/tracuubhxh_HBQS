@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "title": "Dashboard",
+            "icon": "home",
+            "type": "sub",
+            "badgeType": "primary",
+            "active": false
+        },
+        {
+            "path": "/settings/profile",
+            "title": "Thông tin",
+            "icon": "box",
+            "type": "link",
+            "bookmark": true
+        }
+    ]
+}

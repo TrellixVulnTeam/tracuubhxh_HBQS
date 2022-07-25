@@ -1,0 +1,39 @@
+{
+    "data": [{
+            "id": 1,
+            "name": "Product List",
+            "createdAt": "sep 5,12",
+            "delete": false,
+            "status": true
+        },
+        {
+            "id": 2,
+            "name": "Digital Product",
+            "createdAt": "Mar 10,18",
+            "delete": false,
+            "status": false
+        },
+        {
+            "id": 3,
+            "name": "User Media",
+            "createdAt": "Aug 24,18",
+            "delete": false,
+            "status": true
+        },
+        {
+            "id": 4,
+            "name": "About Product",
+            "createdAt": "Jun 12,18",
+            "delete": false,
+            "status": false
+        },
+        {
+            "id": 5,
+            "name": "User Profile",
+            "createdAt": "May 26,18",
+            "delete": false,
+            "status": true
+        }
+
+    ]
+}

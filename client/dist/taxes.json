@@ -1,0 +1,52 @@
+{
+    "data": [{
+            "id": 1,
+            "taxDetail": "USASTE-PS6N0",
+            "taxSchedule": "USASTCITY-6*",
+            "taxRate": "10%",
+            "totalTaxAmount": "15.24",
+            "actions": ""
+        },
+        {
+            "id": 2,
+            "taxDetail": "USASTE-PS6N0",
+            "taxSchedule": "USASTCITY-6*",
+            "taxRate": "18%",
+            "totalTaxAmount": "5.29",
+            "actions": ""
+        },
+        {
+            "id": 3,
+            "taxDetail": "USASTE-PS6N0",
+            "taxSchedule": "USASTCITY-6*",
+            "taxRate": "25%",
+            "totalTaxAmount": "4.78",
+            "actions": ""
+        },
+
+        {
+            "id": 4,
+            "taxDetail": "USASTE-PS6N0",
+            "taxSchedule": "USASTCITY-6*",
+            "taxRate": "40%",
+            "totalTaxAmount": "3.20",
+            "actions": ""
+        },
+        {
+            "id": 5,
+            "taxDetail": "USASTE-PS6N0",
+            "taxSchedule": "USASTCITY-6*",
+            "taxRate": "40%",
+            "totalTaxAmount": "3.20",
+            "actions": ""
+        },
+        {
+            "id": 6,
+            "taxDetail": "USASTE-PS6N0",
+            "taxSchedule": "USASTCITY-6*",
+            "taxRate": "40%",
+            "totalTaxAmount": "3.20",
+            "actions": ""
+        }
+    ]
+}

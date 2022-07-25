@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "title": "Dashboard",
+            "icon": "home",
+            "type": "sub",
+            "badgeType": "primary",
+            "active": false
+        },
+        {
+            "path": "/settings/profile",
+            "title": "Thông tin",
+            "icon": "box",
+            "type": "link",
+            "bookmark": true
+        },
+        {
+            "path": "/feedback/change-info",
+            "title": "Gửi yêu cầu",
+            "icon": "tag",
+            "type": "link",
+            "bookmark": true
+        },
+        {
+            "path": "/feedback/feeds",
+            "title": "Yêu cầu đã gửi",
+            "icon": "clipboard",
+            "type": "link",
+            "bookmark": true
+        }
+    ]
+}

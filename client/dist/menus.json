@@ -1,0 +1,51 @@
+{
+    "data": [{
+            "id": 1,
+            "name": "Product Menu",
+            "createdOn": "2018-04-18T00:00:00",
+            "status": false,
+            "image": ""
+        },
+        {
+            "id": 2,
+            "name": "Category Menu",
+            "createdOn": "2018-04-18T00:00:00",
+            "status": true,
+            "image": ""
+
+        },
+        {
+            "id": 3,
+            "name": "Subcategory Menu",
+            "createdOn": "2018-04-18T00:00:00",
+            "status": false,
+            "image": ""
+
+        },
+        {
+            "id": 4,
+            "name": "Sales Menu",
+            "createdOn": "2018-04-18T00:00:00",
+            "status": false,
+            "image": ""
+
+        },
+        {
+            "id": 5,
+            "name": "Vendor Menu",
+            "createdOn": "2018-04-18T00:00:00",
+            "status": true,
+            "image": ""
+
+        },
+        {
+            "id": 6,
+            "name": "Category Menu",
+            "createdOn": "2018-04-18T00:00:00",
+            "status": true,
+            "image": ""
+
+        }
+
+    ]
+}
